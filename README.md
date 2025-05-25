@@ -1,4 +1,6 @@
+✨ 🧑‍💻📚🎨🎬🏛️ ✨  
 Software engineer with a background in literature and the arts.
+
 
 <!--
 **icchie/icchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
